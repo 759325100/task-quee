@@ -1,0 +1,28 @@
+{
+  "name": "task-quee",
+  "version": "1.0.0",
+  "description": "task queue for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/759325100/task-queue.git"
+  },
+  "keywords": [
+    "task",
+    "queue",
+    "node.js",
+    "taskqueue"
+  ],
+  "author": "waroom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/759325100/task-quee/issues"
+  },
+  "homepage": "https://github.com/759325100/task-quee#readme",
+  "dependencies": {},
+  "devDependencies": {
+  }
+}
