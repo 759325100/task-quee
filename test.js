@@ -40,7 +40,8 @@ var task1 = taskQueue.createTask({
         resolve(args + ' success')
       }, 300)
     })
-  }
+  },
+  max: 20
 })
 
 for (let i = 100; i > 1; i--) {

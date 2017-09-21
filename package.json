@@ -1,6 +1,6 @@
 {
-  "name": "task-quee",
-  "version": "1.0.0",
+  "name": "task-queue-node",
+  "version": "1.0.3",
   "description": "task queue for node.js",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,9 @@
     "url": "https://github.com/759325100/task-quee/issues"
   },
   "homepage": "https://github.com/759325100/task-quee#readme",
-  "dependencies": {},
+  "dependencies": {
+  },
   "devDependencies": {
+    "bluebird": "^3.5.0"
   }
 }
